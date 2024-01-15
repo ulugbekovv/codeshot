@@ -1,6 +1,7 @@
 # CodeShot
 
-![Снимок экрана 2024-01-15 в 20 45 22](https://github.com/ulugbekovv/codeshot/assets/155284699/13d0d176-2712-4ef0-b924-fded9901e11b)
+![preview](https://github.com/ulugbekovv/codeshot/assets/155284699/dd6c2e55-f4ae-4715-9c6f-9c950c6c3c5c)
+
 
 
 ✨CodeShot - это веб-приложение, которое преобразует ваш код в стильные скриншоты для легкого шеринга.
